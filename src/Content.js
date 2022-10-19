@@ -3,7 +3,6 @@ import ItemList from './ItemList';
 const Content = ({items, handleCheck, handleDelete}) => {
   return (
     <main>
-        <h2>Content</h2>
         {items.length ? (
        <ItemList 
        items = {items}
