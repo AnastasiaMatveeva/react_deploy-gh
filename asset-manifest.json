@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_deploy-gh/static/css/main.2fb37b3c.css",
+    "main.js": "/react_deploy-gh/static/js/main.881da0ff.js",
+    "index.html": "/react_deploy-gh/index.html",
+    "main.2fb37b3c.css.map": "/react_deploy-gh/static/css/main.2fb37b3c.css.map",
+    "main.881da0ff.js.map": "/react_deploy-gh/static/js/main.881da0ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb37b3c.css",
+    "static/js/main.881da0ff.js"
+  ]
+}
